@@ -1,6 +1,6 @@
 
 module.exports = {
 
-   ' url' : 'mongodb;//localhost/logindb'
+   'url' : 'mongodb://localhost/logindb'
 
 };
